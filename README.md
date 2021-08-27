@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Buzzard</h1>
+<h1 align="center">👋 Welcome to my GitHub</h1>
 - 📫 How to reach me **m.buzzard87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
