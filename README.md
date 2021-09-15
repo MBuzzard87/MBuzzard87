@@ -1,6 +1,8 @@
 <h1 align="center">👋 Welcome to my GitHub</h1>
 📫 Email: m.buzzard87@gmail.com
+
 [Personal website](https://michaelbuzzard.com) 
+
 💼 [Certificates/Resume](https://github.com/MBuzzard87/cert_resume) 
 
 
